@@ -1,5 +1,8 @@
-.header{background-color: rgb(5, 255, 17);}
-
+.header{background-color: rgb(80, 250, 88); height: 80px;}
+.h1{color: aliceblue;
+}
+.texts{color: azure;}
+.text-center{color: azure;}
 .img{
      /* border: 1px solid; */
     border-radius: 10px;
@@ -16,6 +19,7 @@
 .btn:hover{
     box-shadow: 5px 10px 15px;
 }
+
 @font-face {
     font-family: 'rubick';
     src: url("/font/RubikBurned-Regular.woff") format("woff");
@@ -24,7 +28,7 @@
     font-family: rubick;
 }
 .bgc{
-    background-color: rgb(250, 255, 255);
+    background-color: rgb(184, 247, 156);
 }
 .imge{
     /* border: 1px solid; */
