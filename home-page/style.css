@@ -1,4 +1,4 @@
-.header{background-color: rgb(80, 250, 88); height: 80px;}
+.header{background-color: rgb(5, 167, 13); height: 80px;}
 .h1{color: aliceblue;
 }
 .texts{color: azure;}
@@ -27,9 +27,7 @@
 .text-center{
     font-family: rubick;
 }
-.bgc{
-    background-color: rgb(184, 247, 156);
-}
+
 .imge{
     /* border: 1px solid; */
    border-radius: 10px;
@@ -37,4 +35,7 @@
    margin: 10px;
    display: inline;
    width: 70px;
+}
+.bgs{
+    background-color: rgb(67, 69, 67);
 }
